@@ -1,0 +1,23 @@
+{
+  "name": "js-tests-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Titus-Kiplagat/js-tests-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Titus-Kiplagat/js-tests-jest/issues"
+  },
+  "homepage": "https://github.com/Titus-Kiplagat/js-tests-jest#readme",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
